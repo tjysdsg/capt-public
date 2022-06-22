@@ -1,0 +1,7 @@
+lightning_logs/
+models/
+aishell_phone_feats/
+std_pronun/
+
+*.scp
+*.ark

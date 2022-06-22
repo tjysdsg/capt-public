@@ -1,0 +1,4 @@
+{
+  "tts": "ws://xx.xx.xx.xx:40002/tclient",
+  "asr": "ws://xx.xx.xx.xx:40003/client/ws/speech"
+}

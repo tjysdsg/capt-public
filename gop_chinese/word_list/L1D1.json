@@ -1,0 +1,90 @@
+{
+  "id": 6,
+  "name": "Lesson 01 Dialogue 1",
+  "sentences": [
+    {
+      "id": 60,
+      "text": "你好",
+      "pinyin": "n i_2 h ao_3",
+      "explanation": "Hello. How do you do?"
+    },
+    {
+      "id": 61,
+      "text": "请问",
+      "pinyin": "q ing_3 w en_4",
+      "explanation": "Lit. Please, may I ask…"
+    },
+    {
+      "id": 62,
+      "text": "你贵姓",
+      "pinyin": "n i_3 g ui_4 x ing_4",
+      "explanation": "What is your surname? (Lit: Your honorable surname is…?)"
+    },
+    {
+      "id": 63,
+      "text": "我姓",
+      "pinyin": "w o_3 x ing_4",
+      "explanation": "My family name is..."
+    },
+    {
+      "id": 64,
+      "text": "我姓李",
+      "pinyin": "w o_3 x ing_4 l i_3",
+      "explanation": "My family name is Li."
+    },
+    {
+      "id": 65,
+      "text": "你叫",
+      "pinyin": "n i_3 j iao_4",
+      "explanation": "Your name is…(Lit. You are called…)"
+    },
+    {
+      "id": 66,
+      "text": "名字",
+      "pinyin": "m ing_2 z i_0",
+      "explanation": "name"
+    },
+    {
+      "id": 67,
+      "text": "你叫什么名字",
+      "pinyin": "n i_3 j iao_4 sh en_2 m e_0 m ing_2 z i_0",
+      "explanation": "What’s your name?"
+    },
+    {
+      "id": 68,
+      "text": "我叫",
+      "pinyin": "w o_3 j iao_4",
+      "explanation": "My name is…(Lit. I am called…)"
+    },
+    {
+      "id": 69,
+      "text": "我叫李友",
+      "pinyin": "w o_3 j iao_4 l i_2 y ou_3",
+      "explanation": "My name is Li You."
+    },
+    {
+      "id": 610,
+      "text": "你呢",
+      "pinyin": "n i_3 n e_0",
+      "explanation": "How about you?"
+    },
+    {
+      "id": 611,
+      "text": "我叫王朋",
+      "pinyin": "w o_3 j iao_4 w ang_2 p eng_2",
+      "explanation": "My name is Wang Peng"
+    },
+    {
+      "id": 612,
+      "text": "李小姐",
+      "pinyin": "l i_3 x iao_2 j ie_3",
+      "explanation": "Miss Li"
+    },
+    {
+      "id": 613,
+      "text": "王先生",
+      "pinyin": "w ang_2 x ian_1 sh eng_0",
+      "explanation": "Mr. Wang"
+    }
+  ]
+}

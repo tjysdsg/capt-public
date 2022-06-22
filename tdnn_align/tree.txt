@@ -1,0 +1,69 @@
+.
+├── lang
+│   ├── G.fst
+│   ├── L.fst
+│   ├── L_disambig.fst
+│   ├── oov.int
+│   ├── oov.txt
+│   ├── phones
+│   │   ├── align_lexicon.int
+│   │   ├── align_lexicon.txt
+│   │   ├── context_indep.csl
+│   │   ├── context_indep.int
+│   │   ├── context_indep.txt
+│   │   ├── disambig.csl
+│   │   ├── disambig.int
+│   │   ├── disambig.txt
+│   │   ├── extra_questions.int
+│   │   ├── extra_questions.txt
+│   │   ├── nonsilence.csl
+│   │   ├── nonsilence.int
+│   │   ├── nonsilence.txt
+│   │   ├── optional_silence.csl
+│   │   ├── optional_silence.int
+│   │   ├── optional_silence.txt
+│   │   ├── roots.int
+│   │   ├── roots.txt
+│   │   ├── sets.int
+│   │   ├── sets.txt
+│   │   ├── silence.csl
+│   │   ├── silence.int
+│   │   ├── silence.txt
+│   │   ├── wdisambig.txt
+│   │   ├── wdisambig_phones.int
+│   │   ├── wdisambig_words.int
+│   │   ├── word_boundary.int
+│   │   └── word_boundary.txt
+│   ├── phones.txt
+│   ├── topo
+│   └── words.txt
+├── tdnn_sp
+│   ├── cmvn_opts
+│   ├── combined.mdl
+│   ├── configs
+│   │   ├── final.config
+│   │   ├── init.config
+│   │   ├── init.raw
+│   │   ├── lda.mat
+│   │   ├── network.xconfig
+│   │   ├── presoftmax_prior_scale.vec
+│   │   ├── ref.config
+│   │   ├── ref.raw
+│   │   ├── vars
+│   │   ├── xconfig
+│   │   ├── xconfig.expanded.1
+│   │   └── xconfig.expanded.2
+│   ├── final.mdl
+│   ├── init.raw
+│   ├── lda.mat
+│   ├── lda_stats
+│   ├── num_jobs
+│   ├── pdf_counts
+│   ├── phones.txt
+│   ├── post.combined.vec
+│   ├── presoftmax_prior_scale.vec
+│   ├── srand
+│   └── tree
+└── tree.txt
+
+4 directories, 62 files

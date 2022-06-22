@@ -1,0 +1,4 @@
+tdnn_score/* linguist-vendored
+tdnn_align/* linguist-vendored
+references/* linguist-vendored
+tdnn_align/lang/G.fst filter=lfs diff=lfs merge=lfs -text

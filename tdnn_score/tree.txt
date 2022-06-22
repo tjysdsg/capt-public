@@ -1,0 +1,137 @@
+.
+├── diag_ubm
+│   ├── final.dubm
+│   ├── final.mat
+│   ├── global_cmvn.stats
+│   ├── online_cmvn.conf
+│   └── splice_opts
+├── extractor
+│   ├── 10.ie
+│   ├── final.dubm
+│   ├── final.ie
+│   ├── final.ie.id
+│   ├── final.mat
+│   ├── global_cmvn.stats
+│   ├── num_jobs
+│   ├── online_cmvn.conf
+│   └── splice_opts
+├── ivectors_dev
+│   ├── conf
+│   │   ├── ivector_extractor.conf
+│   │   ├── online_cmvn.conf
+│   │   └── splice.conf
+│   ├── final.ie.id
+│   ├── ivector_online.1.ark
+│   ├── ivector_online.1.scp
+│   ├── ivector_online.2.ark
+│   ├── ivector_online.2.scp
+│   ├── ivector_online.3.ark
+│   ├── ivector_online.3.scp
+│   ├── ivector_online.4.ark
+│   ├── ivector_online.4.scp
+│   ├── ivector_online.5.ark
+│   ├── ivector_online.5.scp
+│   ├── ivector_online.6.ark
+│   ├── ivector_online.6.scp
+│   ├── ivector_online.7.ark
+│   ├── ivector_online.7.scp
+│   ├── ivector_online.8.ark
+│   ├── ivector_online.8.scp
+│   ├── ivector_online.scp
+│   └── ivector_period
+├── ivectors_test
+│   ├── conf
+│   │   ├── ivector_extractor.conf
+│   │   ├── online_cmvn.conf
+│   │   └── splice.conf
+│   ├── final.ie.id
+│   ├── ivector_online.1.ark
+│   ├── ivector_online.1.scp
+│   ├── ivector_online.2.ark
+│   ├── ivector_online.2.scp
+│   ├── ivector_online.3.ark
+│   ├── ivector_online.3.scp
+│   ├── ivector_online.4.ark
+│   ├── ivector_online.4.scp
+│   ├── ivector_online.5.ark
+│   ├── ivector_online.5.scp
+│   ├── ivector_online.6.ark
+│   ├── ivector_online.6.scp
+│   ├── ivector_online.7.ark
+│   ├── ivector_online.7.scp
+│   ├── ivector_online.8.ark
+│   ├── ivector_online.8.scp
+│   ├── ivector_online.scp
+│   └── ivector_period
+├── lang
+│   ├── L.fst
+│   ├── L_disambig.fst
+│   ├── oov.int
+│   ├── oov.txt
+│   ├── phones
+│   │   ├── align_lexicon.int
+│   │   ├── align_lexicon.txt
+│   │   ├── context_indep.csl
+│   │   ├── context_indep.int
+│   │   ├── context_indep.txt
+│   │   ├── disambig.csl
+│   │   ├── disambig.int
+│   │   ├── disambig.txt
+│   │   ├── extra_questions.int
+│   │   ├── extra_questions.txt
+│   │   ├── nonsilence.csl
+│   │   ├── nonsilence.int
+│   │   ├── nonsilence.txt
+│   │   ├── optional_silence.csl
+│   │   ├── optional_silence.int
+│   │   ├── optional_silence.txt
+│   │   ├── roots.int
+│   │   ├── roots.txt
+│   │   ├── sets.int
+│   │   ├── sets.txt
+│   │   ├── silence.csl
+│   │   ├── silence.int
+│   │   ├── silence.txt
+│   │   ├── wdisambig.txt
+│   │   ├── wdisambig_phones.int
+│   │   └── wdisambig_words.int
+│   ├── phones.txt
+│   ├── topo
+│   └── words.txt
+├── pca_transform
+│   ├── final.mat
+│   ├── global_cmvn.stats
+│   ├── online_cmvn.conf
+│   └── splice_opts
+├── tdnn_sp
+│   ├── accuracy.report
+│   ├── cmvn_opts
+│   ├── combined.mdl
+│   ├── configs
+│   │   ├── final.config
+│   │   ├── init.config
+│   │   ├── init.raw
+│   │   ├── lda.mat
+│   │   ├── network.xconfig
+│   │   ├── presoftmax_prior_scale.vec
+│   │   ├── ref.config
+│   │   ├── ref.raw
+│   │   ├── vars
+│   │   ├── xconfig
+│   │   ├── xconfig.expanded.1
+│   │   └── xconfig.expanded.2
+│   ├── final.ie.id
+│   ├── final.mdl
+│   ├── init.raw
+│   ├── lda.mat
+│   ├── lda_stats
+│   ├── num_jobs
+│   ├── pdf_counts
+│   ├── phones.txt
+│   ├── post.combined.vec
+│   ├── presoftmax_prior_scale.vec
+│   ├── srand
+│   └── tree
+└── tree.txt
+
+11 directories, 123 files

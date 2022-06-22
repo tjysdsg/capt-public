@@ -1,0 +1,19 @@
+name: Python package
+
+on: [ push ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up anaconda
+        uses: s-weigand/setup-conda@v1
+        with:
+          python-version: 3.6
+      - name: Install dependencies
+        run: |
+          scripts/install-deps.sh
+      - name: Test with pytest
+        run: |
+          pytest -s tests
